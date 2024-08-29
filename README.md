@@ -2,8 +2,7 @@
 - 👀 I’m interested in developing projects.
 - 🌱 I’m currently learning java
 - 💞️ I’m looking to collaborate on projects
-- 📫 How to reach me: www.linkedin.com/in/
-ritik-rai-b06554260
+- 📫 How to reach me: www.linkedin.com/in/ritik-rai-b06554260
 gmail: rairitik9584@gmail.com
 
 - 😄 Pronouns: ...
